@@ -1,5 +1,5 @@
 # tautology-checker
-Tautology checker made on Ocaml language
+Tautology checker made on OCaml language
 
 It checks wether a given proposition (Data types for propositions are shown in sthe ource file) is a tautology (always true) or not.
 
